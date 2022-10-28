@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-const char* ssid = "Yogi Subaktyana";
-const char* password = "hanif100";
+const char* ssid = "Galaxy A52E0A4";
+const char* password = "mcgy6861";
 const char* mqtt_server = "test.mosquitto.org";
 
 WiFiClient espClient;
